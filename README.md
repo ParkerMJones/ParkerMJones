@@ -1,5 +1,5 @@
 - 🎧 Current Listening: Electro Machine Funk
--📕 Current Reading: Flow by Mihaly Csikszentmihalyi
+- 📕 Current Reading: Flow by Mihaly Csikszentmihalyi
 - 📊 Current Learning: The Klee Sequencer
 - 🎮 Current Playing: Lonely Mountain Downhill
 - 📫 Contact: parker.matthewjones@gmail.com
