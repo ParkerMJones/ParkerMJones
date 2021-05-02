@@ -1,5 +1,5 @@
-- 🎧 Current Listening: Electro Machine Funk
-- 📕 Current Reading: Flow by Mihaly Csikszentmihalyi
+- 🎧 Current Listening: Ambient Drone
+- 📕 Current Reading: Debt: The First 5000 Years by David Graeber
 - 📊 Current Learning: The Klee Sequencer
-- 🎮 Current Playing: Lonely Mountain Downhill
+- 🎮 Current Playing: Ori and the Will of the Wisps
 - 📫 Contact: parker.matthewjones@gmail.com
