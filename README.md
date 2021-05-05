@@ -1,17 +1,20 @@
 # Hi!  My name is Parker.
 
-## I like strange audio, especially when algorithmically generated.
-  * "Algorave" refers to an event, where artists generate improvisational dance music through real-time coding.
+## I like strange audio, especially when computer generated.
+  * "Algorave" refers to an event where artists generate improvisational dance music through real-time coding.
   * Popular languages for live-coding include SuperCollider(DSL), Haskell, Clojure, and JavaScript.
 
 ### I hope to build creative tools that push artistic boundaries.
-  * 
-
+  * Bring automation and machine learning into the process of music composition.
+  * Develop new methods for electronic music improvisation.
+  
 ## About me
-Recent Listening: [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sudaunt&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=sudaunt&redirect=true)
+**Recent Listening**: 
 
-Current Reading: [![Kindle-Preview](https://read.amazon.com/kp/embed?asin=B00Q1HZMCW&preview=newtab&linkCode=kpe&ref_=cm_sw_r_kb_dp_CRNGFWM4RA2HFG3XAYB8)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sudaunt&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=sudaunt&redirect=true)
 
-Current Fixation: The Klee Sequencer for Eurorack
+**Current Reading**: Debt: The First 5000 Years by David Graeber
 
-Contact me: parker.matthewjones@gmail.com
+**Current Random Interest**: The Klee Sequencer for Eurorack
+
+**Contact Me**: parker.matthewjones@gmail.com
