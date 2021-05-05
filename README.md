@@ -1,5 +1,1 @@
-- 🎧 Current Listening: Ambient Drone
-- 📕 Current Reading: Debt: The First 5000 Years by David Graeber
-- 📊 Current Learning: The Klee Sequencer
-- 🎮 Current Playing: Ori and the Will of the Wisps
-- 📫 Contact: parker.matthewjones@gmail.com
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sudaunt&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=sudaunt&redirect=true)
