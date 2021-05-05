@@ -1,7 +1,7 @@
 # Hi!  My name is Parker.
 
 ## I like strange audio, especially when computer generated.
-  * "Algorave" refers to an event where artists generate improvisational dance music through real-time coding.
+  * "Algorave" is an event where artists generate improvisational dance music through real-time coding.
   * Popular languages for live-coding include SuperCollider(DSL), Haskell, Clojure, and JavaScript.
 
 ### I hope to build creative tools that push artistic boundaries.
