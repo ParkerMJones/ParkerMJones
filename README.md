@@ -2,7 +2,7 @@
 
 ## I like strange audio, especially when computer generated.
   * "Algorave" is an event where artists generate improvisational dance music through real-time coding.
-  * Popular languages for live-coding include SuperCollider(DSL), Haskell, Clojure, and JavaScript.
+  * Popular environments for live-coding include SuperCollider(DSL), Haskell, Clojure, and JavaScript.
 
 ### I hope to build creative tools that push artistic boundaries.
   * Bring automation and machine learning into the process of music composition.
