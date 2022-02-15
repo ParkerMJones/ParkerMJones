@@ -2,7 +2,7 @@
 
 ## I like to experiment with creative technologies.
   * I enjoy live-coding electronic music, using tools like TidalCycles (an extension of SuperColider, written in Haskell) and Max/MSP
-  * I'm building immersive experiences for the web using Three.js, react-three-fiber, animation libraries and Blender.
+  * I'm building immersive experiences for the web using Three.js, react-three-fiber, Framer Motion and Blender.
 
 ### I hope to build tools that push artistic boundaries:
   * [FreesoundNotepad](https://parkermjones.github.io/Freesound-Notepad/) is an application I developed to help music producers find inspiration effortlessly.
