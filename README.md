@@ -14,7 +14,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sudaunt&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=sudaunt&redirect=true)
 
-**Current Reading**: The Sound of Things to Come: An Audible History of the Science Fiction Film by Trace Reddell
+**Current Reading**: To Sell Is Human by Daniel H. Pink
 
 **Current Random Interest**: React-Three-Fiber
 
