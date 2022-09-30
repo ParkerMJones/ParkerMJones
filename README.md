@@ -1,8 +1,8 @@
 # Hi!  My name is Parker.
 
 ## I like to experiment with creative technologies.
-  * I'm building immersive experiences for the web using Three.js, react-three-fiber, Framer Motion and Blender.
-  * I enjoy live-coding electronic music, using tools like TidalCycles (an extension of SuperColider, written in Haskell) and Max/MSP
+  * I'm building immersive experiences for the web using Three.js, react-three-fiber, Framer Motion and more.
+  * I enjoy live-coding electronic music, using tools like TidalCycles, SuperCollider, Max/MSP, and Hydra for visuals.
  
 
 ### I hope to build tools that push artistic boundaries:
@@ -14,8 +14,8 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sudaunt&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=sudaunt&redirect=true)
 
-**Current Reading**: To Sell Is Human by Daniel H. Pink
+**Current Reading**: The Age of Surveillance Capitalism by Shoshana Zuboff
 
-**Current Random Interest**: React-Three-Fiber
+**Current Random Interest**: Hydra, R3F, osc
 
 **Contact Me**: parker.matthewjones@gmail.com
