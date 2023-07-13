@@ -14,8 +14,8 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sudaunt&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=sudaunt&redirect=true)
 
-**Current Reading**: The Age of Surveillance Capitalism by Shoshana Zuboff
+**Current Reading**: The Last Man Who Knew Everything: The Life and Times of Enrico Fermi, Father of the Nuclear Age by David N. Schwartz
 
-**Current Random Interest**: Hydra, R3F, osc
+**Current Interests**: The Joy of React by Josh W. Comeau, Euclidian Rhythms
 
 **Contact Me**: parker.matthewjones@gmail.com
